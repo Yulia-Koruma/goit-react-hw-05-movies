@@ -10,9 +10,9 @@ export const AddInfo = styled.h5`
 
 export const StyledLink = styled(NavLink)`
   color: black;
-  font-size: 18px;
+  font-size: 20px;
 
   &.active {
-    color: orange;
+    color: #f6e0ff;
   }
 `;

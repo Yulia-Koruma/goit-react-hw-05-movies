@@ -17,7 +17,7 @@ export const InputForm = styled.input`
 export const ButtonForm = styled.button`
     padding: 8px;
     border-radius: 12px;
-    background-color: orange;
+    background-color: #828df2;
     color: black;
     border: none;
     font-size: 20px;

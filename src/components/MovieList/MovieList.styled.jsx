@@ -8,6 +8,9 @@ export const WrapMovie = styled.ul`
 
 export const WrapInfo = styled.div`
     width: 250px;
+    background-color: #ebbafc;
+    box-shadow: 0 0px 8px rgb(127, 10, 133);
+    border-radius: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
